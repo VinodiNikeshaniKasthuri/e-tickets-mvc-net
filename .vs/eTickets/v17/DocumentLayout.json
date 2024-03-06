@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\models\\actor_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\models\\actor_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\views\\cinemas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\cinemas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\vinodi nikeshani\\desktop\\.net\\etickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProducersController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\ProducersController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\ProducersController.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\ProducersController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\ProducersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:46:24.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:46:22.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\ActorsController.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\ActorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:46:17.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "eTickets\\Models\\Producer.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Producer.cs",
+              "RelativeToolTip": "eTickets\\Models\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:52:58.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "eTickets\\Models\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "eTickets\\Models\\ShoppingCartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:53:06.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CinemasController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\CinemasController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\CinemasController.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\CinemasController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\CinemasController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:51:39.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:51:11.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "eTickets\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\OrderItem.cs",
+              "RelativeToolTip": "eTickets\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:52:48.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "eTickets\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Order.cs",
+              "RelativeToolTip": "eTickets\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:52:39.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "eTickets\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Movie.cs",
+              "RelativeToolTip": "eTickets\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:50:53.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:49:53.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "eTickets\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "eTickets\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T18:30:18.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "eTickets\\Models\\Cinema.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Cinema.cs",
+              "RelativeToolTip": "eTickets\\Models\\Cinema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:51:01.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "eTickets\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "eTickets\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T18:33:47.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Actor.cs",
+              "RelativeDocumentMoniker": "eTickets\\Models\\Actor.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Actor.cs",
+              "RelativeToolTip": "eTickets\\Models\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:54:51.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Actor_Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Actor_Movie.cs",
+              "RelativeDocumentMoniker": "eTickets\\Models\\Actor_Movie.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Models\\Actor_Movie.cs",
+              "RelativeToolTip": "eTickets\\Models\\Actor_Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T18:33:50.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Cinemas\\Create.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Cinemas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Cinemas\\Create.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Cinemas\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T18:12:34.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Producers\\Index.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Producers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Producers\\Index.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Producers\\Index.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T18:13:32.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Producers\\Create.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Producers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Producers\\Create.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Producers\\Create.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T17:55:32.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T17:55:11.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T17:55:00.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T17:53:31.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T17:53:25.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T18:11:40.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "eTickets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AQIAACgMAAAAAAAAAAAQwOULAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-05T17:57:02.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "eTickets\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "eTickets\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-05T17:56:42.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Data\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\AppDbInitializer.cs",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\Data\\AppDbInitializer.cs",
+              "RelativeToolTip": "eTickets\\Data\\AppDbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:07:06.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\appsettings.json",
+              "RelativeDocumentMoniker": "eTickets\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vinodi Nikeshani\\Desktop\\.net\\eTickets\\appsettings.json",
+              "RelativeToolTip": "eTickets\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T16:02:55.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
